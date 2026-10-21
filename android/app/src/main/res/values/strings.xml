@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Бухгалтерія</string>
+    <string name="title_activity_main">Бухгалтерія</string>
+    <string name="package_name">com.buhgalteria.app</string>
+    <string name="custom_url_scheme">com.buhgalteria.app</string>
+</resources>
